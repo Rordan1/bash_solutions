@@ -1,0 +1,1 @@
+# bashsolutions-folder1
